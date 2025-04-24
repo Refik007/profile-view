@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" /> <!-- HTML badge added here -->
 </p>
 
 ---
@@ -27,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Refik007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Refik007&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Refik007&theme=tokyonight" />
 </p>
 
 ---
@@ -50,5 +51,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Refik007)
-
----
