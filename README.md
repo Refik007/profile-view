@@ -1,34 +1,55 @@
-# 👋 Hi, I'm Rofiq Usmonov
-
-🚀 Fullstack Developer | Passionate about building efficient and scalable web applications
-
----
-
-### 💻 Tech Stack
-
-- 🔷 **Frontend:** Angular (3 years), React.js (1 year)
-- ⚙️ **Backend:** ASP.NET Core (2 years), Node.js (1 year)
-- 🛠️ **Languages & Tools:** JavaScript, TypeScript, C#, HTML/CSS, SQL, REST APIs
+<h1 align="center">Hi 👋, I'm Rofiq Usmonov</h1>
+<h3 align="center">Fullstack Developer | Angular • ASP.NET Core • React • Node.js</h3>
 
 ---
 
-### 🧑‍💼 Work Experience
-
-**Cmos Teknoloji**  
-*Fullstack Developer*  
-📅 3 Years  
-Worked on enterprise-level applications using Angular, ASP.NET Core, and Node.js. Focused on performance, maintainability, and clean architecture.
+### 🧑‍💻 About Me
+- 🔭 I’m currently working at **Cmos Teknoloji**
+- 🌱 I’m learning advanced **microservices architecture** and **Docker**
+- 👯 I’m looking to collaborate on open-source .NET & JS projects
 
 ---
 
-### 📫 Get in Touch
+### 💼 Tech Stack
 
-- 📧 Email: *your.email@example.com*
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(add your link)*
-- 💻 [GitHub](https://github.com/rofiqusb)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET Core-512BD4?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
+### 📈 GitHub Stats
 
-I love learning new technologies and building useful things that solve real-world problems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Refik007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Refik007&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Refik007&label=Profile+Views&color=0e75b6&style=flat" alt="Refik007" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Refik007/Refik007/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Refik007)
+
+---
