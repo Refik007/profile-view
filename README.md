@@ -43,7 +43,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Refik007/Refik007/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Refik007/Refik007/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
