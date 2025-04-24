@@ -44,10 +44,3 @@
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Refik007/Refik007/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Refik007)
