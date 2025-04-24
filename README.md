@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white" />
 </p>
 
 ---
@@ -28,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Refik007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Refik007&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Refik007&theme=tokyonight" />
 </p>
 
 ---
